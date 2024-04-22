@@ -7,3 +7,7 @@ Este é um projeto desenvolvido em Java, que objetiva a conversão dos valores d
 
 ![Valor para ser convertido e o resultado do processo.](https://github.com/sancappi/taxa-de-cambio/assets/149303714/91f1def6-e9bc-4cf9-a22a-439e7fd76a85)
 
+## ✅ Tecnologias utilizadas
+  - Java 17
+  - InteliJ IDE
+  - Exchange Rate API
